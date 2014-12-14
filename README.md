@@ -1,4 +1,4 @@
-test-repo
+datasciencecoursera
 =========
 
-This is a test repo.
+This repo is for The Data Scientist's Toolbox.
